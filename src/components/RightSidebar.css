@@ -1,0 +1,21 @@
+.rightSidebar {
+    flex: 1;
+    margin: 0;
+    padding: 0;
+    background-color: lightcoral;
+    height: 100vh;
+}
+
+
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+li {
+    padding: 0;
+    margin: 0 0 24px 0;
+    list-style-type: none;
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+}

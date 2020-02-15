@@ -1,0 +1,7 @@
+.mainContent {
+    flex: 16;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    overflow: auto;
+}
