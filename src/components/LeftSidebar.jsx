@@ -6,7 +6,7 @@ class LeftSidebar extends Component {
 
         return (
             <div className="leftSidebar">
-                <h1>&lt;M/&gt;</h1>
+                <h1>&lt;/M&gt;</h1>
             </div>
         );
     }

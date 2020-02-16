@@ -6,9 +6,9 @@ class RightSidebar extends Component {
         return (
             <div className="rightSidebar">
                 <ul>
-                    <li>Github</li>
-                    <li>LinkedIn</li>
-                    <li>h.michael.ta@gmail.com</li>
+                    <li>GITHUB</li>
+                    <li>LINKEDIN</li>
+                    <li>H.MICHAEL.TA@GMAIL.COM</li>
                 </ul>
             </div>
         );

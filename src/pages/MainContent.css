@@ -1,7 +1,19 @@
 .mainContent {
-    flex: 16;
+    flex: 12;
     height: 100vh;
-    margin: 0;
+    margin: 0 4%;
     padding: 0;
     overflow: auto;
+    
+}
+
+.mainContent h1 {
+    font-size: 54px;
+    font-weight: 1000;
+    line-height: 80px;
+}
+
+.mainContent p {
+    font-size: 30px;
+    line-height: 60px;
 }
