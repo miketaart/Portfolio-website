@@ -3,7 +3,7 @@
     margin: 0 0 0 48px;
     padding: 0;
     height: 100vh;
-    
+
 }
 
 
@@ -11,8 +11,9 @@
 ul {
     padding: 0;
     margin: 0;
-    
+
 }
+
 li {
     padding: 12px 13px 0 0;
     margin: 0 0 48px 0;
@@ -20,5 +21,25 @@ li {
     writing-mode: vertical-rl;
     text-orientation: mixed;
     font-size: 13px;
-    
+
+}
+
+ul li a:link {
+    text-decoration: none;
+    color: black;
+}
+
+ul li a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+ul li a:hover {
+    text-decoration: underline;
+    color: black;
+}
+
+ul li a:active {
+    text-decoration: underline;
+    color: black;
 }
