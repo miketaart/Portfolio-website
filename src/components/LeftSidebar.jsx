@@ -3,10 +3,9 @@ import './LeftSidebar.css'
 
 class LeftSidebar extends Component {
     render() {
-
         return (
             <div className="leftSidebar">
-                <h1>&lt;/M&gt;</h1>
+                <h1><a href="/">&lt;/M&gt;</a></h1>
             </div>
         );
     }
